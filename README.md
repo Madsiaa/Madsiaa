@@ -6,10 +6,8 @@ Currently I'm learning to work as Junior Frontend Developer / Web Developer!
 
 Reacently I've graduated Pedagogical University in Cracow (IT (Multimedia and Internet Technologies), Bachelor of Engineering).
 
-
-
 I've been passionate about websites for years. I'm trying to develop in the field of frontend and learn technologies that will allow me to create advanced applications.
-## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on my portfolio (business website and Shiny Hunter Helper).
 
 🧠 I'm currently learning JavaScript and React.js.
