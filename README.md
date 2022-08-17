@@ -25,7 +25,7 @@ I've been passionate about websites for years. I'm trying to develop in the fiel
 - Wordpress, Woocommerce,
 - npm,
 - React.js, Node.js (basics),
-- MySQL (simple db),
+- MySQL, MongoDB (simple db),
 - Figma, Adobe XD, Photoshop,
 - C++, C#, .Net, Java, PHP, Python (basics).
 
